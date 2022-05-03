@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bfamchon" target="blank"><img src="https://img.shields.io/twitter/follow/bfamchon?logo=twitter&style=for-the-badge" alt="bfamchon" /></a> </p>
 
-- 🌱 I’m currently learning **Everything around design systems & mono-repos**
+- 🌱 I’m currently learning **Everything around design systems and hexagonal architecture**
 
 - 📝 I regularly write articles on [https://cookforadventure.com/](https://cookforadventure.com/)
 
