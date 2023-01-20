@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bfamchon at gmail dot com**
 
-- 📄 Know about my experiences [https://welovedevs.com/app/fr/developer/baptiste-ingenieur-en-developpements-web-pour-cutii](https://welovedevs.com/app/fr/developer/baptiste-ingenieur-en-developpements-web-pour-cutii)
+- 📄 Know about my experiences [bfamchon.dev](https://bfamchon.dev)
 
 - ⚡ Hobbies **Trail running & tasting beers 🍻**
 
