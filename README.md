@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Baptiste</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate fullstack developer from France using TypeScript to craft product.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bfamchon&label=Profile%20views&color=0e75b6&style=flat" alt="bfamchon" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bfamchon" target="blank"><img src="https://img.shields.io/twitter/follow/bfamchon?logo=twitter&style=for-the-badge" alt="bfamchon" /></a> </p>
+<p align="center"><a href="https://app.daily.dev/bfamchon"><img src="https://api.daily.dev/devcards/v2/2Af1JSdYd5KGuzOZZ3pQ5.png?type=default&r=ezz" width="356" alt="Baptiste FAMCHON's Dev Card"/></a></p>
+<br><br><br><br>
 
-- 🌱 I’m currently learning **Everything around design systems and hexagonal architecture**
+- 🌱 I’m currently learning **Everything around architecture and crafting softwares**
 
-- 📝 I regularly write articles on [https://cookforadventure.com/](https://cookforadventure.com/)
+- 📝 I regularly write articles on [my LinkedIn](https://linkedin.com/in/baptiste-famchon) and [dev.to](https://dev.to/bfamchon)
 
 - 💬 Ask me about **React & JavaScript**
 
-- 📫 How to reach me **bfamchon at gmail dot com**
+- 📫 How to reach me **[my LinkedIn](https://linkedin.com/in/baptiste-famchon)**
 
 - 📄 Know about my experiences [bfamchon.dev](https://bfamchon.dev)
 
@@ -33,8 +34,6 @@
 <br><br>
 
 <h3 align="center">Support</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/bfamchon"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bfamchon" /></a></p>
-<br><br><br><br>
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bfamchon&show_icons=true&locale=en&layout=compact" alt="bfamchon" /></p>
 <br><br><br><br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bfamchon&show_icons=true&locale=en" alt="bfamchon" /></p>
